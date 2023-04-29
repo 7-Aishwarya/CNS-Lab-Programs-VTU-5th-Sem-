@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.Scanner;
 import java.util.Arrays;
-public class CRC
+public class crc
 {
     public static void main(String args[])throws IOException
     {
