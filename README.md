@@ -3,12 +3,12 @@
 
 ### PART A (Implement the following in NS2/NS3)
 
-1. [Implement three nodes point – to – point network with duplex links between them. Set the queue size, vary the bandwidth and find the number of packets dropped.](Part%20A/program1)
-2. [Implement transmission of ping messages/trace route over a network topology consisting of 6 nodes and find the number of packets dropped due to congestion.](Part%20A/program2)
-3. [Implement an Ethernet LAN using n nodes and set multiple traffic nodes and plot congestion window for different source / destination.](Part%20A/program3)
-4. [Implement simple ESS and with transmitting nodes in wire-less LAN by simulation and determine the performance with respect to transmission of packets.](Part%20A/program4)
-5. [Implement and study the performance of GSM on NS2/NS3 (Using MAC layer) or equivalent environment.](Part%20A/program5)
-6. [Implement and study the performance of CDMA on NS2/NS3 (Using stack called Call net) or equivalent environment](Part%20A/program6)
+1. [Implement three nodes point – to – point network with duplex links between them. Set the queue size, vary the bandwidth and find the number of packets dropped.](CNS/PART-A/Program-1)
+2. [Implement transmission of ping messages/trace route over a network topology consisting of 6 nodes and find the number of packets dropped due to congestion.](CNS/PART-A/Program-2)
+3. [Implement an Ethernet LAN using n nodes and set multiple traffic nodes and plot congestion window for different source / destination.](CNS/PART-A/Program-3)
+4. [Implement simple ESS and with transmitting nodes in wire-less LAN by simulation and determine the performance with respect to transmission of packets.](CNS/PART-A/Program-4)
+5. [Implement and study the performance of GSM on NS2/NS3 (Using MAC layer) or equivalent environment.](CNS/PART-A/Program-5)
+6. [Implement and study the performance of CDMA on NS2/NS3 (Using stack called Call net) or equivalent environment](CNS/PART-A/Program-6)
 
 ### PART B (Implement the following in Java)
 
