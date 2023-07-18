@@ -12,10 +12,10 @@
 
 ### PART B (Implement the following in Java)
 
-7. [Write a program for error detecting code using CRC-CCITT (16- bits).](Part%20B/program07)
-8. [Write a program to find the shortest path between vertices using bellman-ford algorithm.](Part%20B/program08)
-9. [Using TCP/IP sockets, write a client – server program to make the client send the file name and to make the server send back the contents of the requested file if present.](Part%20B/program09)
-10. [Write a program on datagram socket for client/server to display the messages on client side, typed at the server side.](Part%20B/program10)
-11. [Write a program for simple RSA algorithm to encrypt and decrypt the data.](Part%20B/program11)
-12. [Write a program for congestion control using leaky bucket algorithm.](Part%20B/program12)
+7. [Write a program for error detecting code using CRC-CCITT (16- bits).](CNS/PART-B/Program-7)
+8. [Write a program to find the shortest path between vertices using bellman-ford algorithm.](CNS/PART-B/Program-8)
+9. [Using TCP/IP sockets, write a client – server program to make the client send the file name and to make the server send back the contents of the requested file if present.](CNS/PART-B/Program-9)
+10. [Write a program on datagram socket for client/server to display the messages on client side, typed at the server side.](CNS/PART-B/Program-10)
+11. [Write a program for simple RSA algorithm to encrypt and decrypt the data.](CNS/PART-B/Program-11)
+12. [Write a program for congestion control using leaky bucket algorithm.](CNS/PART-B/Program-12)
 
